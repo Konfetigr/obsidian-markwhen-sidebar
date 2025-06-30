@@ -1,6 +1,6 @@
 # obsidian-markwhen-sidebar
 
-![photo/markwhen-sidebar-plugin-ph01.jpg]
+![photo/markwhen-sidebar-plugin-ph01.jpg]()
 
 [English](#english) | [Русский](#русский)
 
