@@ -1,0 +1,22 @@
+{
+  "name": "markwhen-sidebar",
+  "version": "0.1.0",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "obsidian": "latest",
+    "typescript": "^5.3.3"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "crelt": "^1.0.6",
+    "moment": "^2.29.4",
+    "style-mod": "^4.1.2",
+    "w3c-keyname": "^2.2.8"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
