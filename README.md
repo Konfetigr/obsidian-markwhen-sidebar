@@ -1,4 +1,4 @@
-# obsidian-markwhen-sidebar
+# Obsidian Markwhen Sidebar Viewer
 
 [![sidebar](https://github.com/Konfetigr/obsidian-markwhen-sidebar/blob/main/photo/markwhen-sidebar-plugin-ph01.jpg)](https://github.com/Konfetigr/obsidian-markwhen-sidebar/blob/main/photo/markwhen-sidebar-plugin-ph01.jpg)
 
